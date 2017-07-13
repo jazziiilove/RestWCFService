@@ -1,0 +1,4 @@
+C:\Users\Baran.Topal\Desktop\RestWCFService\RestWCFService\RestWCFService\bin\RestWCFService.dll
+C:\Users\Baran.Topal\Desktop\RestWCFService\RestWCFService\RestWCFService\bin\RestWCFService.pdb
+C:\Users\Baran.Topal\Desktop\RestWCFService\RestWCFService\RestWCFService\obj\Debug\RestWCFService.dll
+C:\Users\Baran.Topal\Desktop\RestWCFService\RestWCFService\RestWCFService\obj\Debug\RestWCFService.pdb
